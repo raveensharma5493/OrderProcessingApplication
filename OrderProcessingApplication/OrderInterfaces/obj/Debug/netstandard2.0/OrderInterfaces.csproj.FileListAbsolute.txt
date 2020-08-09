@@ -1,0 +1,7 @@
+C:\OrderProcessingApplication\OrderProcessingApplication\OrderInterfaces\bin\Debug\netstandard2.0\OrderInterfaces.deps.json
+C:\OrderProcessingApplication\OrderProcessingApplication\OrderInterfaces\bin\Debug\netstandard2.0\OrderInterfaces.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\OrderInterfaces\bin\Debug\netstandard2.0\OrderInterfaces.pdb
+C:\OrderProcessingApplication\OrderProcessingApplication\OrderInterfaces\obj\Debug\netstandard2.0\OrderInterfaces.AssemblyInfoInputs.cache
+C:\OrderProcessingApplication\OrderProcessingApplication\OrderInterfaces\obj\Debug\netstandard2.0\OrderInterfaces.AssemblyInfo.cs
+C:\OrderProcessingApplication\OrderProcessingApplication\OrderInterfaces\obj\Debug\netstandard2.0\OrderInterfaces.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\OrderInterfaces\obj\Debug\netstandard2.0\OrderInterfaces.pdb

@@ -1,0 +1,11 @@
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\bin\Debug\netstandard2.0\Middleware.deps.json
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\bin\Debug\netstandard2.0\Middleware.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\bin\Debug\netstandard2.0\Middleware.pdb
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\bin\Debug\netstandard2.0\OrderInterfaces.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\bin\Debug\netstandard2.0\OrderInterfaces.pdb
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\obj\Debug\netstandard2.0\Middleware.csprojAssemblyReference.cache
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\obj\Debug\netstandard2.0\Middleware.AssemblyInfoInputs.cache
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\obj\Debug\netstandard2.0\Middleware.AssemblyInfo.cs
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\obj\Debug\netstandard2.0\Middleware.csproj.CopyComplete
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\obj\Debug\netstandard2.0\Middleware.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\Middleware\obj\Debug\netstandard2.0\Middleware.pdb

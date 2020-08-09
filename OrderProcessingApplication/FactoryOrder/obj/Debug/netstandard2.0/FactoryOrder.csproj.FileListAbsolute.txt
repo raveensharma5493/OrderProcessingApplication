@@ -1,0 +1,13 @@
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\bin\Debug\netstandard2.0\FactoryOrder.deps.json
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\bin\Debug\netstandard2.0\FactoryOrder.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\bin\Debug\netstandard2.0\FactoryOrder.pdb
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\bin\Debug\netstandard2.0\Middleware.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\bin\Debug\netstandard2.0\OrderInterfaces.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\bin\Debug\netstandard2.0\Middleware.pdb
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\bin\Debug\netstandard2.0\OrderInterfaces.pdb
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\obj\Debug\netstandard2.0\FactoryOrder.csprojAssemblyReference.cache
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\obj\Debug\netstandard2.0\FactoryOrder.AssemblyInfoInputs.cache
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\obj\Debug\netstandard2.0\FactoryOrder.AssemblyInfo.cs
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\obj\Debug\netstandard2.0\FactoryOrder.csproj.CopyComplete
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\obj\Debug\netstandard2.0\FactoryOrder.dll
+C:\OrderProcessingApplication\OrderProcessingApplication\FactoryOrder\obj\Debug\netstandard2.0\FactoryOrder.pdb
