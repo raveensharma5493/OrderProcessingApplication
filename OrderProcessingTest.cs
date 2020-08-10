@@ -34,7 +34,7 @@ namespace OrderProcessingTest
         [Fact]
         public void Mock_DBCalls_Logging_APICalls_using_Fake_Mocking_using_Interfaces()
         {
-            //Adding below for reference of mocking external dependency..but code will only with decoupled system
+            //Adding below for reference of mocking external dependency..but code will only work with decoupled system
 
             //string inputType = "PhysicalOrder";
             //Mock<IOrderProcessing> mockRepository = new Mock<IOrderProcessing>();
