@@ -18,8 +18,8 @@ namespace FactoryOrder
 
             //resolve dependency on basis of type of order coming from UI
             //and call ProcessOrder method where logic should be written as per order type
-            BaseOrder orderobj = unityContainer.Resolve<SendEmail>(orderType);
-            return orderobj;
+            
+            return unityContainer.Resolve<IOrderProcessing>(orderType);
         }
     }
 }
